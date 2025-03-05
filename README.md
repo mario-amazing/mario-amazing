@@ -45,9 +45,9 @@
 
 
 <!-- https://readme-typing-svg.demolab.com/demo/?font=Audiowide&size=24&duration=2000&pause=100&color=FFDE02&center=true&vCenter=true&multiline=true&width=500&height=110&lines=Answer+to+the+ultimate+question+;of+life+the+universe+and+everything;4%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=24&duration=2000&pause=100&color=FFDE02&center=true&vCenter=true&multiline=true&width=500&height=110&lines=Answer+to+the+ultimate+question+;of+life+the+universe+and+everything;4%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=24&duration=2000&pause=100&color=fbbd30&center=true&vCenter=true&multiline=true&width=500&height=110&lines=Answer+to+the+ultimate+question+;of+life+the+universe+and+everything;4%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3)](https://git.io/typing-svg)
 
-<a href="https://www.codewars.com/users/mario-amazing"><img src="https://www.codewars.com/users/mario-amazing/badges/small">
+<a href="https://www.codewars.com/users/mario-amazing"><img src="https://www.codewars.com/users/mario-amazing/badges/small"></a>
 
 ### Support Me
 
@@ -58,5 +58,7 @@
 
 <a href="https://www.buymeacoffee.com/mario_amazing"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 <a href="https://www.ko-fi.com/mario_amazing"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+
+<a href="https://komarev.com/ghpvc/?username=mario-amazing&color=fbbd30&abbreviated=true"><img src="https://komarev.com/ghpvc/?username=mario-amazing&color=fbbd30&abbreviated=true"></a>
 
 </div>
